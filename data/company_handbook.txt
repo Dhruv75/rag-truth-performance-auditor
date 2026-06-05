@@ -1,0 +1,261 @@
+TECHCORP EMPLOYEE HANDBOOK 2026
+
+SECTION 1: LEAVE POLICY
+
+Employees receive 20 annual leave days per year.
+
+Employees receive 12 sick leave days annually.
+
+Unused leave may be carried forward up to 10 days.
+
+Maternity leave entitlement is 26 weeks.
+
+Paternity leave entitlement is 15 days.
+
+Leave requests must be submitted at least 3 working days in advance.
+
+SECTION 2: REMOTE WORK POLICY
+
+Employees may work remotely up to 3 days per week.
+
+Managers must approve fully remote arrangements.
+
+Employees must maintain internet speeds above 50 Mbps while working remotely.
+
+VPN access is mandatory for remote work.
+
+Employees must attend all scheduled team meetings.
+
+SECTION 3: TRAVEL POLICY
+
+Travel reimbursement is limited to ₹5000 per trip.
+
+Meal reimbursement is capped at ₹800 per day.
+
+Hotel accommodation is capped at ₹4000 per night.
+
+Business class travel is permitted only for directors and executives.
+
+International travel requires department head approval.
+
+Taxi reimbursement is capped at ₹1500 per day.
+
+SECTION 4: IT POLICY
+
+Laptop replacement cycle is every 4 years.
+
+Employees must change passwords every 90 days.
+
+Multi-factor authentication is mandatory.
+
+Company devices may not be used for cryptocurrency mining.
+
+Unauthorized software installation is prohibited.
+
+SECTION 5: BENEFITS
+
+Medical insurance coverage is ₹500000.
+
+Internet allowance is ₹1000 per month.
+
+Employees receive a learning budget of ₹25000 annually.
+
+Gym membership reimbursement is capped at ₹12000 annually.
+
+Quarterly performance bonuses are available.
+
+SECTION 6: FINANCE POLICY
+
+Expense claims must be submitted within 30 days.
+
+Procurement above ₹50000 requires director approval.
+
+Petty cash reimbursement is limited to ₹2000.
+
+Invoices must be retained for 7 years.
+
+Vendor payments are processed within 15 business days.
+
+SECTION 7: SECURITY POLICY
+
+Employees must complete security awareness training every six months.
+
+Company passwords must contain at least 12 characters.
+
+Passwords must include uppercase letters, lowercase letters, numbers, and special characters.
+
+Sharing passwords with colleagues is strictly prohibited.
+
+Employees must lock their devices when leaving their desks.
+
+USB storage devices require manager approval before use.
+
+Sensitive customer data must be encrypted at rest.
+
+Sensitive customer data must be encrypted during transmission.
+
+Security incidents must be reported within 2 hours of discovery.
+
+Failed login attempts exceeding 5 attempts will result in temporary account suspension.
+
+Employees may not access systems unrelated to their job responsibilities.
+
+Annual penetration testing is conducted by external vendors.
+
+SECTION 8: RECRUITMENT POLICY
+
+All job openings must be approved by Human Resources.
+
+Employee referrals receive a bonus of ₹10000 upon successful hiring.
+
+Interview feedback must be submitted within 48 hours.
+
+Background verification is mandatory for all full-time employees.
+
+Probation period for new employees is 6 months.
+
+Internship duration is typically 3 to 6 months.
+
+Offer letters remain valid for 14 days.
+
+Candidates must provide proof of identity before joining.
+
+Technical interviews require a minimum of two interview rounds.
+
+Hiring managers must complete interview training annually.
+
+SECTION 9: TRAINING POLICY
+
+Employees receive a learning budget of ₹25000 annually.
+
+Certification exam fees may be reimbursed up to ₹15000 per year.
+
+Mandatory compliance training must be completed within 30 days of assignment.
+
+New employees must complete onboarding training within 14 days.
+
+Managers must conduct quarterly skill development reviews.
+
+Employees may attend up to 2 external conferences annually.
+
+Conference attendance requires prior approval.
+
+Training records must be retained for 5 years.
+
+Leadership development programs are available for employees with over 2 years of tenure.
+
+Employees who fail mandatory training may lose access to specific systems.
+
+SECTION 10: PROCUREMENT POLICY
+
+Procurement requests below ₹10000 may be approved by team leads.
+
+Procurement requests above ₹50000 require director approval.
+
+Vendor onboarding requires finance department verification.
+
+A minimum of three vendor quotations is required for purchases above ₹100000.
+
+Software purchases must be reviewed by the IT department.
+
+Emergency purchases require post-facto approval within 3 business days.
+
+Purchase orders remain valid for 90 days.
+
+Contract renewals must be reviewed 60 days before expiration.
+
+Procurement documentation must be retained for 7 years.
+
+Conflict-of-interest declarations are mandatory during vendor selection.
+
+SECTION 11: CODE OF CONDUCT
+
+Employees must treat colleagues with respect and professionalism.
+
+Harassment of any kind is strictly prohibited.
+
+Discrimination based on gender, religion, ethnicity, or disability is prohibited.
+
+Employees must disclose conflicts of interest.
+
+Company assets must be used responsibly.
+
+Confidential company information may not be shared externally without authorization.
+
+Employees must comply with all applicable laws and regulations.
+
+Gifts exceeding ₹5000 in value must be reported to management.
+
+Employees may not accept bribes or improper payments.
+
+Violations of the code of conduct may result in disciplinary action.
+
+SECTION 12: DATA PRIVACY POLICY
+
+Customer personal information must be processed lawfully.
+
+Access to personal data must follow the principle of least privilege.
+
+Customer data retention period is 5 years unless otherwise required by law.
+
+Employees must report data breaches within 4 hours of discovery.
+
+Personal information must not be stored on personal devices.
+
+Data deletion requests must be processed within 30 days.
+
+Access logs must be retained for 12 months.
+
+Third-party vendors handling customer data must sign data processing agreements.
+
+Data exports require manager approval.
+
+Annual privacy compliance audits are mandatory.
+
+SECTION 13: CUSTOMER SUPPORT POLICY
+
+Support tickets must receive an initial response within 4 business hours.
+
+Critical incidents require response within 1 hour.
+
+Customer satisfaction surveys are sent after ticket closure.
+
+Support interactions must be recorded in the CRM system.
+
+Escalated tickets must be reviewed by a support manager.
+
+Ticket resolution targets are 24 hours for high-priority issues.
+
+Support records must be retained for 3 years.
+
+SECTION 14: PERFORMANCE MANAGEMENT POLICY
+
+Performance reviews occur twice annually.
+
+Employees are evaluated on goals, collaboration, and technical skills.
+
+Managers must provide quarterly feedback sessions.
+
+Promotion eligibility requires a minimum rating of 4 out of 5.
+
+Performance improvement plans typically last 90 days.
+
+Outstanding performers may receive spot bonuses.
+
+Review documentation must be retained for 5 years.
+
+SECTION 15: BUSINESS CONTINUITY POLICY
+
+Critical systems must maintain 99.9% uptime.
+
+Backups are performed daily.
+
+Disaster recovery testing occurs every 6 months.
+
+Recovery Time Objective (RTO) is 4 hours.
+
+Recovery Point Objective (RPO) is 1 hour.
+
+Emergency response teams must conduct annual drills.
+
+Business continuity documentation is reviewed annually.
