@@ -2,6 +2,7 @@ import sqlite3
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+from demo_seed import seed_demo_data
 
 # ==========================
 # PAGE CONFIG
@@ -59,7 +60,7 @@ CREATE TABLE IF NOT EXISTS audit_results (
 """)
 
 conn.commit()
-
+seed_demo_data(conn)
 # ==========================
 # KPI QUERIES
 # ==========================
